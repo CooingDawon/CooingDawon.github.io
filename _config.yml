@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "다원아, 나는 널 믿어"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "으뜸이 많은 다원이"
 description              : "An amazing website."
 url                      : "https://CooingDawon.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
