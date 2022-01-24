@@ -102,11 +102,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "으뜸이 많은 다원"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "나의 **목표**를 향하여."
+  location         : "My dreams"
+  email            : "ekdnjs49@naver.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
